@@ -82,8 +82,8 @@ const ChannelPhoto = ({ classes }) => {
     <div className={classes.photoContainer}>
       <Avatar
         className={classes.avatar}
-        alt="Dendy Darma"
-        src="https://images.unsplash.com/photo-1532561566109-6d16632e2961?ixlib=rb-1.2.1&auto=format&fit=crop&w=1814&q=80"
+        alt="Nat Geo"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQqLXPdwanG-kTsMGmC6Ff4lmKkw1LBy4G4G1tYxDNWV-8MCAI&usqp=CAU"
       />
     </div>
   );
